@@ -1,0 +1,13 @@
+langchain
+llama-index
+azure-storage-blob
+unstructured
+tabulate
+pdf2image
+qdrant-client
+torch
+git+https://github.com/facebookresearch/detectron2.git
+pytesseract
+torchvision
+tesseract
+transformers
